@@ -31,8 +31,6 @@ display_cpu_usage
 display_disk_usage
 display_memory_usage
 echo "End of the script"
-echo "This is the end of the script"
 echo "Thank you for using the script"
-echo "Goodbye!"
 echo "Goodbye!"
 echo "By Willington Juma "
